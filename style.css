@@ -1,0 +1,54 @@
+/*
+Theme Name: Моя красивая тема
+Theme URI: https://www.example.com/my-beautiful-theme/
+Description: Описание вашей темы
+Author: Ваше имя или имя автора
+Author URI: https://www.example.com/your-website/
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: тег1, тег2, тег3
+Text Domain: my-beautiful-theme
+*/
+
+/* Общие стили для всего сайта */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+/* Стили для заголовков */
+h1 {
+  font-size: 28px;
+  color: #ff0000;
+}
+
+h2 {
+  font-size: 24px;
+  color: #00ff00;
+}
+
+h3 {
+  font-size: 20px;
+  color: #0000ff;
+}
+
+/* Стили для параграфов */
+p {
+  line-height: 1.5;
+}
+
+/* Стили для ссылок */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Дополнительные стили для ваших блоков и элементов интерфейса */
+/* ... */
+
